@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive Power BI dashboard that provides insights into the Netflix dataset. The dashboard visualizes various aspects of the data, such as show ratings, genres, country distribution, and release trends.
 
+![Dashboard](NetflixPBI.png)
+
 ## Dashboard Overview
 
 The dashboard includes the following features:
